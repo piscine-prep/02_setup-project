@@ -34,7 +34,7 @@ mon-projet/
 
 1. Créez un nouveau dossier pour votre projet sur votre machine locale
 2. Organisez votre projet selon la structure minimale demandée
-3. Dans `src/main.c`, écrivez un programme C simple qui affiche votre nom et votre numéro étudiant
+3. Dans `src/main.c`, écrivez un programme C simple qui affiche votre nom
 4. Créez un fichier README.md qui décrit brièvement votre projet
 5. Créez un fichier .gitignore approprié pour un projet C
 6. Initialisez un dépôt Git dans votre projet
